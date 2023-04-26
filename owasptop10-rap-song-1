@@ -1,0 +1,57 @@
+PROMPT: Write a rap song lyrics about owasp top 10
+
+RESPONSE:
+
+Verse 1:
+Let me tell y'all 'bout a list that's a must-see,
+OWASP Top 10, cyber threats that could end you and me
+Injection, XSS, and broken authentication,
+Don't be caught slipping, it's time to take some action
+
+Chorus:
+OWASP Top 10, don't get caught out,
+Learn the risks, take precautions, don't even doubt
+It's time to get serious, don't let hackers win,
+Secure your data, don't let the bad guys in
+
+Verse 2:
+Cross-site scripting, man, it's no joke,
+They'll steal your info, your accounts all broke
+SQL injection, they'll mess up your data,
+Or use your site for spam, like some old-school hater
+
+Chorus:
+OWASP Top 10, don't get caught out,
+Learn the risks, take precautions, don't even doubt
+It's time to get serious, don't let hackers win,
+Secure your data, don't let the bad guys in
+
+Verse 3:
+Insecure deserialization, it's a hard one to say,
+But it means danger, so don't let it get in your way
+A bit of broken access control, and you'll be stung,
+Your secure data will be compromised, your business undone
+
+Chorus:
+OWASP Top 10, don't get caught out,
+Learn the risks, take precautions, don't even doubt
+It's time to get serious, don't let hackers win,
+Secure your data, don't let the bad guys in
+
+Verse 4:
+Security misconfiguration, it's like leaving the door wide,
+For hackers to walk in, and take you for a ride,
+Don't let them exploit you, protect your apps from the start,
+Then you'll be ahead of the game, with a guarded heart
+
+Chorus:
+OWASP Top 10, don't get caught out,
+Learn the risks, take precautions, don't even doubt
+It's time to get serious, don't let hackers win,
+Secure your data, don't let the bad guys in
+
+Outro:
+So that's OWASP Top 10, and what it means for you,
+Get ahead of the game, and do what you gotta do,
+Secure your networks, and code with care,
+And when the bad guys come, they'll be met with a cyber warfare.
